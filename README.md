@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walker-JD
+- 👋 Hi, I’m Jake!
 - 👀 I’m interested in games and finances!
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on games and game jams!
